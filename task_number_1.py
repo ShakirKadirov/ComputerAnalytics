@@ -12,6 +12,7 @@ def generate_x(k):
   return x
 
 k = 12
+k = 13
 
 x = generate_x(k)
 print(x)
